@@ -44,7 +44,7 @@
         {
             "type": "style",
             "section": "💄 Styles | 风格",
-            hidden: true,
+            "hidden": true,
         },
     ]
 }
