@@ -28,6 +28,7 @@
         {
             "type": "docs",
             "section": "📝 Documentation | 文档",
+            "hidden": true
         },
         {
             "type": "style",
