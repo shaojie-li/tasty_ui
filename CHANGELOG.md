@@ -1,4 +1,14 @@
 更新历史
+
+### [0.0.6](https://github.com/shaojie-li/tasty_ui/compare/v0.0.5...v0.0.6) (2023-11-20)
+
+
+### ✨ Features | 新功能
+
+* **nnn:** nnnn ([7da6506](https://github.com/shaojie-li/tasty_ui/commit/7da6506ed08ad7e1c937e449d7e6c36feccc09c0))
+* **nnn:** nnnnnn ([6a9238e](https://github.com/shaojie-li/tasty_ui/commit/6a9238e7b64a267efb698458c8b3e0e0f34a8c54))
+* **nn:** nnnnnnn ([507b0a0](https://github.com/shaojie-li/tasty_ui/commit/507b0a0bee110983e1b3b958ae65f196771c6ae5))
+
 ### [0.0.5](https://github.com/shaojie-li/tasty_ui/compare/v0.0.4...v0.0.5) (2023-11-20)
 
 
