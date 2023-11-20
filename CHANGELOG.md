@@ -1,4 +1,11 @@
-###更新历史
+### 更新历史
+
+### [0.0.8](https://github.com/shaojie-li/tasty_ui/compare/v0.0.7...v0.0.8) (2023-11-20)
+
+
+### ✨ Features | 新功能
+
+* **version:** update version config ([304ebfb](https://github.com/shaojie-li/tasty_ui/commit/304ebfb2789a0cd28ec25dd1698aab20015561e9))
 
 ### [0.0.7](https://github.com/shaojie-li/tasty_ui/compare/v0.0.6...v0.0.7) (2023-11-20)
 
