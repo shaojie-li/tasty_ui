@@ -17,10 +17,5 @@
             "type": "refactor",
             "section": "♻ Code Refactoring | 代码重构"
         },
-        {
-            "type": "revert",
-            "section": "⏪ Reverts | 回退",
-            "hidden": true
-        },
     ]
 }
