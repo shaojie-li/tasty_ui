@@ -30,10 +30,6 @@
             "section": "📝 Documentation | 文档",
         },
         {
-            "type": "style",
-            "section": "💄 Styles | 风格",
-        },
-        {
             "type": "test",
             "section": "✅ Tests | 测试",
         },
@@ -45,5 +41,10 @@
             "type": "ci",
             "section": "🔧 Continuous Integration | CI 配置",
         }
+        {
+            "type": "style",
+            "section": "💄 Styles | 风格",
+            hidden: true,
+        },
     ]
 }
