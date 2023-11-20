@@ -1,4 +1,6 @@
 更新历史
+### [0.0.4](https://github.com/shaojie-li/tasty_ui/compare/v0.0.3...v0.0.4) (2023-11-20)
+
 ### [0.0.3](https://github.com/shaojie-li/tasty_ui/compare/v0.0.2...v0.0.3) (2023-11-20)
 
 
