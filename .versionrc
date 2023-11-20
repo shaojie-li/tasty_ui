@@ -24,6 +24,7 @@
         {
             "type": "chore",
             "section": "📦 Chores | 其他更新",
+            "hidden": true
         },
         {
             "type": "docs",
