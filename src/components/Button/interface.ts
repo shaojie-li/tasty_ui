@@ -5,4 +5,5 @@ export interface ButtonProps extends React.DOMAttributes<HTMLButtonElement> {
     /** 按钮颜色 */
     color?: string;
     children?: React.ReactNode;
+    size?: "xs" | "sm" | "lg";
 }
