@@ -1,4 +1,11 @@
-### 更新历史
+# 更新历史
+
+### [0.0.9](https://github.com/shaojie-li/tasty_ui/compare/v0.0.8...v0.0.9) (2023-11-20)
+
+
+### ✨ Features | 新功能
+
+* **version:** update version title font size ([b6982df](https://github.com/shaojie-li/tasty_ui/commit/b6982df8cef624772ef88591f27bbe870c6dfbe6))
 
 ### [0.0.8](https://github.com/shaojie-li/tasty_ui/compare/v0.0.7...v0.0.8) (2023-11-20)
 
