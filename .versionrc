@@ -32,6 +32,7 @@
         {
             "type": "style",
             "section": "💄 Styles | 风格",
+            "hidden": true
         },
         {
             "type": "test",
